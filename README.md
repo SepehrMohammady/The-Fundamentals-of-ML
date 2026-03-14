@@ -20,6 +20,11 @@ We use the publicly available **Medical Cost Personal Datasets**. The dataset co
 * **`region`**: Residential area in the US (northeast, southeast, southwest, northwest)
 * **🎯 Target**: **`charges`** (Individual medical costs billed by health insurance)
 
+## 🚀 Core Features
+* 🎨 **Interactive UI:** Features highly stylized Pandas DataFrames utilizing `Jinja2` bindings for vibrant, intuitive EDA reading.
+* 📈 **Scikit-Learn Pipelines:** Demonstrates comprehensive `ColumnTransformer` layouts for production-ready model handling.
+* 🧠 **Pedagogical Structure:** Clear markdown insights, visualizations, and a simplified flow meant for learning Machine Learning fundamentals.
+
 ## 🤖 Models Evaluated
 Through standard preprocessing (One-Hot Encoding, Standard Scaling), we train and evaluate:
 1. 📈 **Linear Regression**
