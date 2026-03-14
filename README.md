@@ -1,7 +1,7 @@
 # 🏥 Medical Insurance Cost Prediction
 
-![Python](https://img.shields.io/badge/Python-3.13+-blue.svg?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.8+-orange.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14.3-blue.svg?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.8.0-orange.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-Data_Processing-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
